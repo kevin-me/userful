@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataCalculationOffline/DataCalculationOffline.iml" filepath="$PROJECT_DIR$/DataCalculationOffline/DataCalculationOffline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlinkTicketProject.iml" filepath="$PROJECT_DIR$/FlinkTicketProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ispider/ispider.iml" filepath="$PROJECT_DIR$/ispider/ispider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticket_risk_control/ticket_risk_control.iml" filepath="$PROJECT_DIR$/ticket_risk_control/ticket_risk_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>
